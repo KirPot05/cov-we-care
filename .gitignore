@@ -1,0 +1,10 @@
+#dependencies
+node_modules
+
+
+# Build
+public
+
+
+#config file
+.env
